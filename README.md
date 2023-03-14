@@ -1,1 +1,3 @@
 # Diabetes-Prediction-With-Pyspark-MLLIB
+
+To build a logistic regression model using Pyspark MLLIB to classify patients as either diabetic or non-diabetic. We will use the popular Pima Indian Diabetes data set. Our goal is to use a simple logistic regression classifier from the pyspark Machine learning library for diabetes classification. We will be carrying out the entire project on the Google Colab environment with the installation of Pyspark.You will need a free Gmail account to complete this project. Please be aware of the fact that the dataset and the model in this project, can not be used in the real-life. We are only using this data for the educational purpose.
